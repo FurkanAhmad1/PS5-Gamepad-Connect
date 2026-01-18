@@ -7,7 +7,7 @@ Supported platforms - Windows 10/ Windows 11
 
 If you find this tool helpful, consider supporting its development:
 
-👉 [Donate via PayPal](https://paypal.me/YourUsername)
+👉 [Donate via PayPal](https://paypal.me/UNFixEye)
 ### PS5 Gamepad Connect - Initial Release (v1.0.0)
 
 This is the first public release of **PS5 Gamepad Connect**, a lightweight Windows tool designed to manage and monitor your PS5 controller via Bluetooth.
