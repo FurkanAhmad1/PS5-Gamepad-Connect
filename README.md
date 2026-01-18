@@ -1,5 +1,6 @@
 # PS5 Gamepad Connect
-Initial release placeholder.
+Initial release V1.0.0
+Supported platforms - Windows 10/ Windows 11
 ---
 
 💖 **Support the Project**
